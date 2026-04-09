@@ -1,6 +1,6 @@
 EN / [RU](https://github.com/AmbreKitsune/ambrekitsune/blob/main/README.ru.md)
 
-[![Header](https://github.com/AmbreKitsune/ambrekitsune/blob/main/assets/bannerProfile.gif)](https://www.youtube.com/@AmbreFoxHaven)
+[![Header](https://github.com/AmbreKitsune/ambrekitsune/blob/main/assets/bannerPixelProfile.gif)](https://www.youtube.com/@AmbreFoxHaven)
 
 ## 😎About me
 ### I'm a Software Engineer (Python, Junior+)
