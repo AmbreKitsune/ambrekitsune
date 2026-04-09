@@ -1,6 +1,6 @@
 [EN](https://github.com/AmbreKitsune) / RU
 
-[![Header](https://github.com/AmbreKitsune/ambrekitsune/blob/main/assets/profile.gif)](https://www.youtube.com/@AmbreKitsune)
+[![Header](https://github.com/AmbreKitsune/ambrekitsune/blob/main/assets/bannerProfile.gif)](https://www.youtube.com/@AmbreKitsune)
 
 ## 😎О себе
 ### Я инженер-программист. (Python, Junior+)
@@ -9,7 +9,7 @@
 Экспериментирую с различными технологиями для поиска лучших решений.<br>
 Превращаю идеи в работающие продукты 🚀
 
-## 📚 Направления
+## 📚 Стек и Инструменты
 - Python (main)
 - FastAPI, Aiogram (Telegram Bots) 
 - HTML/CSS, React (Vite)
