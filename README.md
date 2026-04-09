@@ -5,6 +5,10 @@ EN / RU
 ## 😎About me
 ### I'm Software Engineer (Python, Junior+)
 
+I build web systems, bots and automation tools.<br>
+I experiment with different technologies to find better solutions.<br>
+Turning ideas into working products 🚀
+
 ## 📚Stack and Tools
 - Python (main)
 - FastAPI, Aiogram (Telegram Bots) 
