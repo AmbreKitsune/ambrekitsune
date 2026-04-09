@@ -1,25 +1,25 @@
-EN / [RU](https://github.com/AmbreKitsune/ambrekitsune/blob/main/README.ru.md)
+[EN](https://github.com/AmbreKitsune) / RU
 
 [![Header](https://github.com/AmbreKitsune/ambrekitsune/blob/main/assets/profile.gif)](https://www.youtube.com/@AmbreKitsune)
 
-## 😎About me
-### I'm a Software Engineer (Python, Junior+)
+## 😎О себе
+### Я инженер-программист. (Python, Junior+)
 
-I build web systems, bots and automation tools.<br>
-Experiments with different technologies to find better solutions.<br>
-Turning ideas into working products 🚀
+Я разрабатываю веб-системы, ботов и инструменты автоматизации.<br>
+Экспериментирую с различными технологиями для поиска лучших решений.<br>
+Превращаю идеи в работающие продукты 🚀
 
-## 📚Stack and Tools
+## 📚 Направления
 - Python (main)
 - FastAPI, Aiogram (Telegram Bots) 
 - HTML/CSS, React (Vite)
 - Database: SQL / NoSQL
 - Docker, Linux (WSL) 
 
-## 😼 Current Focus
-- **Web systems** - building scalable apps for users and businesses  
-- **Telegram bots** - automation and interaction tools  
-- **Automation** - simplifying workflows and saving time  
+## 😼 Что делаю
+- **Web systems** - Разработка масштабируемых приложений для пользователей и бизнеса.
+- **Telegram bots** - инструменты автоматизации и взаимодействия.
+- **Automation** - упрощение рабочих процессов и экономия времени.
 
 
 ## 🎃Connect With Me
