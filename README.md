@@ -1,7 +1,15 @@
-[![Header](https://github.com/FoxSweets/foxsweets/blob/main/assets/profile.gif)](https://www.youtube.com/@FoxSweets)
+EN / RU
+
+[![Header](https://github.com/AmbreKitsune/ambrekitsune/blob/main/assets/profile.gif)](https://www.youtube.com/@AmbreKitsune)
 
 ## 😎About me
-#### Hola amigos, я backend-разработчик со стажем несколько лет.<br>Создал множество ботов для разных целей, на данный момент начал вести свой ютюб канал про программированию.<br>Начал учить HTML/CSS, FastApi (хоть у меня проблемы с сайтами и Frontend, но я пытаюсь).<br>Знаю прекрасно SQL/NoSQL (Так же ORM), Docker, Linux (WSL), ну а так еж умею делать парсеры/скрипты.
+### I'm Software Engineer (Python, Junior+)
+### Stack:
+- Python (main)
+- FastAPI, Aiogram, 
+- HTML/CSS, React (Vite)
+- SQL / NoSQL
+- Docker, Linux (WSL) 
 
 ## 📚Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-282a36?style=for-the-badge&logo=Python&logoColor=FFFFFF)
@@ -13,10 +21,6 @@
 ![K8S](https://img.shields.io/badge/-K8S-282a36?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF)
 ![Nginx](https://img.shields.io/badge/-nginx-282a36?style=for-the-badge&logo=nginx&logoColor=FFFFFF)
 
-## 📊GitHub Stats
-![FoxSweets User Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxSweets&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![FoxSweets GitHub Stats](https://github-readme-stats.vercel.app/api?username=FoxSweets&show_icons=true&theme=dracula)<br>
-![FoxSweets All Stats](https://nirzak-streak-stats.vercel.app/?user=FoxSweets&theme=dracula&hide_border=false)
 
 ## 🎃Follow me
 [![GitHub](https://img.shields.io/badge/-GitHub-282a36?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/FoxSweets)
