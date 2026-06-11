@@ -23,7 +23,7 @@ Turning ideas into working products 🚀
 
 
 ## 🎃Connect With Me
-[![GitHub](https://img.shields.io/badge/-GitHub-282a36?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/AmbreKitsune)
-[![YouTube](https://img.shields.io/badge/-Youtube-282a36?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/@AmbreFoxHaven)
-[![Telegram](https://img.shields.io/badge/-Telegram-282a36?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/DeviAnteNine)<br>
-[![CodeWars](https://img.shields.io/badge/-codewars-282a36?style=for-the-badge&logo=codewars&logoColor=FFFFFF)](https://www.codewars.com/users/AmbreKitsune)<br>
+[![GitHub](https://img.shields.io/badge/-GitHub-282a36?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/AmbreKitsune)  
+[![YouTube](https://img.shields.io/badge/-Youtube-282a36?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/@AmbreFoxHaven)  
+[![Telegram](https://img.shields.io/badge/-Telegram-282a36?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/DeviAnteNine)  
+[![CodeWars](https://img.shields.io/badge/-codewars-282a36?style=for-the-badge&logo=codewars&logoColor=FFFFFF)](https://www.codewars.com/users/AmbreKitsune)  
